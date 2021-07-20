@@ -24,17 +24,6 @@
 	il metodo execProcess viene eseguita anche la funzione puntata.
 
 	bisogna prestare attenzione, perchè questa classe ad ogni processo crato istanzia un processes struct che se infinito potrebbe saturare la RAM del microcontrollore
-*/
-
-/*NOTE RELEASE
-  STATO|  INIZIO	|	   FINE		|		DESCRIZIONE
-  -------------------------------------------------------------------------------------------------------------------------------
-	[X]	19/07/2021	->	20/07/2021	->	Correggere la funzione GoTo
-	[X] 19/07/2021	->  20/07/2021  ->	Rieseguire il test su Arduino "C:\Users\marco\OneDrive\Documenti\Arduino\sketch_jul19a"
-	[ ] 20/07/2021	->				->	Continuare Debug libreria
-	[ ]	20/07/2021	->				->	Provare ad ottimizzare la classe cercando di togliere i puntatori a processes
-	[ ]	20/07/2021	->				->	Generare una documentazione
-	[ ]	20/07/2021	->				->	Pubblicare la libreria su GitHub
 
 */
 
