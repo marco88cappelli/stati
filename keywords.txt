@@ -1,0 +1,24 @@
+###########################################
+# Syntax Coloring Map For Stati
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+stati KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+begin KEYWORD2
+execProcess KEYWORD2
+add KEYWORD2
+next KEYWORD2
+back KEYWORD2
+goTo KEYWORD2
+gotoFirst KEYWORD2
+gotoLast KEYWORD2
+ProcessCurr KEYWORD2
+ProcessOld KEYWORD2
+ProcessMax KEYWORD2
